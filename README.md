@@ -14,7 +14,11 @@ This project is a **image-based catarcat classification app** that uses **Deep L
 ---
 
 ## 📊 Model Architecture and Performance (Key Metrics)  
+<img width="569" height="314" alt="image" src="https://github.com/user-attachments/assets/85e80bf0-577e-4130-9f8a-20ebb1eed6fe" />
 
+Number of epochs: 10 
+Accuracy: 98.62%
+Validation Accuracy: 94.21%
 
 ## 🛠️ Tech Stack  
 - **Python**  
