@@ -63,7 +63,7 @@ if file is None:
     st.text("Please upload an image file")
 else:
     image = Image.open(file)
-    st.image(image, use_container_width=True)   
+    st.image(image, use_column_width=True)   
     predictions = import_and_predict(image, model)
 
     # threshold at 0.5
@@ -71,3 +71,4 @@ else:
         st.header("Normal Detected")
     else:
         st.header("Cataract Detected")
+
