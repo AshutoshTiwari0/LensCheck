@@ -19,7 +19,7 @@ This project is a **image-based catarcat classification app** that uses **Deep L
 ## 🛠️ Tech Stack  
 - **Python**  
 - **Tenorflow**  
-- **Streamlit / Flask** (for deployment)  
+- **Streamlit** (for deployment)  
 
 ---
 
